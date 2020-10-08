@@ -1,0 +1,11 @@
+[Unit]
+Description=This service makes sure that my trap(dot)Sh file restarts on faliure
+Description=My Miscellaneous Service
+Requires=graphical.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+ExecStart=/root/trap.sh
+Restart=on-failure

@@ -1,0 +1,5 @@
+This is a file where I will be testing the bzip2 command, as I understand 1234 this command is to compress and decompres files. 
+One question I have is if 1234 the compression is meant to be made to a folder/directory with multiple files or if it's fine if it is done only to one file.
+Lets find out.
+This is some more text because right now 1234 I am going to test out the grep command that find patters in a file apperently. I am not sure how it works but yeah, My idea is that ill type a sequence of numbers throught out out the file and use the grep command to find them.
+1234
